@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_WEBAPP.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_WEBAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_WEBAPP_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_WEBAPP_main.iml" group="Kotlin_WEBAPP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_WEBAPP_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_WEBAPP_test.iml" group="Kotlin_WEBAPP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinbackend.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinbackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinbackend_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinbackend_main.iml" group="kotlinbackend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinbackend_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinbackend_test.iml" group="kotlinbackend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinfrontend.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinfrontend.iml" group="kotlinfrontend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinfrontend/kotlinfrontend_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinfrontend/kotlinfrontend_main.iml" group="kotlinfrontend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinfrontend/kotlinfrontend_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinfrontend/kotlinfrontend_test.iml" group="kotlinfrontend" />
+    </modules>
+  </component>
+</project>
