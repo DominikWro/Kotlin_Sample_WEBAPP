@@ -3,7 +3,7 @@
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="JavaScript " useProjectSettings="false">
-        <productionOutputPath>$MODULE_DIR$/../../../kotlinfrontend/build/classes/kotlin/main/kotlinfrontend.js</productionOutputPath>
+        <productionOutputPath>$MODULE_DIR$/../../../kotlinfrontend/web/js/app.js</productionOutputPath>
         <compilerSettings />
         <compilerArguments>
           <option name="outputFile" value="$MODULE_DIR$/../../../kotlinfrontend/build/classes/kotlin/test/kotlinfrontend_test.js" />
@@ -33,10 +33,7 @@
     <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="kotlinfrontend_main" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test-js:1.2.30" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.2.30" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.2.30" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.30" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="kotlinfrontend_main" />
 </module>
